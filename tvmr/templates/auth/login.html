@@ -1,0 +1,26 @@
+
+
+
+{% block title %}
+  Login page
+{% endblock title %}
+
+
+
+
+{% block main %}
+
+<form method="POST">{% csrf_token %}
+  <input type="text" name="username" placeholder="Username"> <br>
+  <input type="password" name="password" placeholder="Password"> <br>
+  <button type="submit">Login</button>
+</form>
+
+<br>
+
+{% for message in messages %}
+  <p>{{ message }}</p>
+{% endfor %}
+
+{% endblock main %}
+  

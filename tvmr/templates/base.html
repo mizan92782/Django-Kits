@@ -1,0 +1,39 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      {% block title %}
+        Bose templates
+      {% endblock %}
+    </title>
+
+    {% block style %}
+
+    {% endblock %}
+  </head>
+
+  <body>
+    {% comment %}this is header section{% endcomment %}
+
+    <header>
+      {% block header %}
+        <h1>this is header</h1>
+      {% endblock %}
+    </header>
+
+    {% comment %}this is main section{% endcomment %}
+    <main>
+      {% block main %}
+        <h1>this is main section</h1>
+      {% endblock %}
+    </main>
+
+    {% comment %}this is footer section{% endcomment %}
+    <footer>
+      {% block footer %}
+        <h1>this is footer</h1>
+      {% endblock %}
+    </footer>
+  </body>
+</html>

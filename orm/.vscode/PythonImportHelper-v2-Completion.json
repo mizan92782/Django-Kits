@@ -1,0 +1,1144 @@
+[
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "core.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "core.models",
+        "description": "core.models",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Restaurant",
+        "importPath": "core.models",
+        "description": "core.models",
+        "isExtraImport": true,
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rating",
+        "importPath": "core.models",
+        "description": "core.models",
+        "isExtraImport": true,
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sale",
+        "importPath": "core.models",
+        "description": "core.models",
+        "isExtraImport": true,
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Restaurant",
+        "importPath": "core.models",
+        "description": "core.models",
+        "isExtraImport": true,
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Staff",
+        "importPath": "core.models",
+        "description": "core.models",
+        "isExtraImport": true,
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Restaurant",
+        "importPath": "core.models",
+        "description": "core.models",
+        "isExtraImport": true,
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Staff",
+        "importPath": "core.models",
+        "description": "core.models",
+        "isExtraImport": true,
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Restaurant",
+        "importPath": "core.models",
+        "description": "core.models",
+        "isExtraImport": true,
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sale",
+        "importPath": "core.models",
+        "description": "core.models",
+        "isExtraImport": true,
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rating",
+        "importPath": "core.models",
+        "description": "core.models",
+        "isExtraImport": true,
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "core.models",
+        "description": "core.models",
+        "isExtraImport": true,
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "core.models",
+        "description": "core.models",
+        "isExtraImport": true,
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.core.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MinValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MaxValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "connection",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "connection",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "connection",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "connection",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "connection",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "FloatField",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "ExpressionWrapper",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "FloatField",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "ExpressionWrapper",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "django",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django",
+        "description": "django",
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "importPath": "operator",
+        "description": "operator",
+        "isExtraImport": true,
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegerField",
+        "importPath": "django.forms",
+        "description": "django.forms",
+        "isExtraImport": true,
+        "detail": "django.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Lower",
+        "importPath": "django.db.models.functions",
+        "description": "django.db.models.functions",
+        "isExtraImport": true,
+        "detail": "django.db.models.functions",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "core.management.commands.create_data",
+        "description": "core.management.commands.create_data",
+        "peekOfCode": "class Command(BaseCommand):\n    help = 'Creates application data'\n    def handle(self, *args, **kwargs):\n        # get or create an admin user\n        user = User.objects.filter(username='admin')\n        if not user.exists():\n            user = User.objects.create_superuser(username='admin', password='test')\n        else:\n            user = user.first()\n        restaurants = [",
+        "detail": "core.management.commands.create_data",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0001_initial",
+        "description": "core.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Restaurant',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "core.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0002_stuff",
+        "description": "core.migrations.0002_stuff",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('core', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Stuff',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=40)),",
+        "detail": "core.migrations.0002_stuff",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0003_rename_stuff_staff",
+        "description": "core.migrations.0003_rename_stuff_staff",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('core', '0002_stuff'),\n    ]\n    operations = [\n        migrations.RenameModel(\n            old_name='Stuff',\n            new_name='Staff',\n        ),\n    ]",
+        "detail": "core.migrations.0003_rename_stuff_staff",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0004_alter_staff_restaurant",
+        "description": "core.migrations.0004_alter_staff_restaurant",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('core', '0003_rename_stuff_staff'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='staff',\n            name='restaurant',\n            field=models.ManyToManyField(related_name='stuffs', to='core.restaurant'),\n        ),",
+        "detail": "core.migrations.0004_alter_staff_restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0005_student",
+        "description": "core.migrations.0005_student",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('core', '0004_alter_staff_restaurant'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Student',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField()),",
+        "detail": "core.migrations.0005_student",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0006_alter_student_roll",
+        "description": "core.migrations.0006_alter_student_roll",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('core', '0005_student'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='roll',\n            field=models.IntegerField(db_index=True),\n        ),",
+        "detail": "core.migrations.0006_alter_student_roll",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0007_alter_student_name_student_name_desc_roll_idx",
+        "description": "core.migrations.0007_alter_student_name_student_name_desc_roll_idx",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('core', '0006_alter_student_roll'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='name',\n            field=models.CharField(max_length=59),\n        ),",
+        "detail": "core.migrations.0007_alter_student_name_student_name_desc_roll_idx",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0008_alter_student_roll",
+        "description": "core.migrations.0008_alter_student_roll",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('core', '0007_alter_student_name_student_name_desc_roll_idx'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='roll',\n            field=models.IntegerField(),\n        ),",
+        "detail": "core.migrations.0008_alter_student_roll",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0009_alter_student_table",
+        "description": "core.migrations.0009_alter_student_table",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('core', '0008_alter_student_roll'),\n    ]\n    operations = [\n        migrations.AlterModelTable(\n            name='student',\n            table='student_db',\n        ),\n    ]",
+        "detail": "core.migrations.0009_alter_student_table",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0010_alter_student_options",
+        "description": "core.migrations.0010_alter_student_options",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('core', '0009_alter_student_table'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='student',\n            options={'ordering': ['roll']},\n        ),\n    ]",
+        "detail": "core.migrations.0010_alter_student_options",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0011_alter_student_options",
+        "description": "core.migrations.0011_alter_student_options",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('core', '0010_alter_student_options'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='student',\n            options={'ordering': ['-roll']},\n        ),\n    ]",
+        "detail": "core.migrations.0011_alter_student_options",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0012_alter_student_unique_together",
+        "description": "core.migrations.0012_alter_student_unique_together",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('core', '0011_alter_student_options'),\n    ]\n    operations = [\n        migrations.AlterUniqueTogether(\n            name='student',\n            unique_together={('name', 'roll')},\n        ),\n    ]",
+        "detail": "core.migrations.0012_alter_student_unique_together",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0013_product",
+        "description": "core.migrations.0013_product",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('core', '0012_alter_student_unique_together'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Product',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('buy', models.IntegerField()),",
+        "detail": "core.migrations.0013_product",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "core.scripts.annotate",
+        "description": "core.scripts.annotate",
+        "peekOfCode": "def run():\n  ls = Product.objects.annotate(\n        loss=ExpressionWrapper(F('buy') - F('sell'), output_field=FloatField())\n    ).filter(buy__gt=F('sell'))\n  for x in ls :\n    print(x.id ,x.buy, x.sell, x.loss)",
+        "detail": "core.scripts.annotate",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "core.scripts.expression",
+        "description": "core.scripts.expression",
+        "peekOfCode": "def run():\n  Sale.objects.update(income=F('income')*2)",
+        "detail": "core.scripts.expression",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "core.scripts.get_data",
+        "description": "core.scripts.get_data",
+        "peekOfCode": "def run():\n  print(Restaurant.objects.filter(id__gt=5).count())\n  print('\\n'*2)\n  print(connection.queries)",
+        "detail": "core.scripts.get_data",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "core.scripts.in_data",
+        "description": "core.scripts.in_data",
+        "peekOfCode": "def run():\n  res_name = [Restaurant.TypeChoices.CHINESE,\n              Restaurant.TypeChoices.ITALIAN,\n              Restaurant.TypeChoices.MEXICAN]\n  # find all these Restaurant\n  restaurant = Restaurant.objects.filter(restaurant_type__in=res_name)\n  print(restaurant.count())\n  print('\\n'*3)\n  print(connection.queries)",
+        "detail": "core.scripts.in_data",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "core.scripts.index",
+        "description": "core.scripts.index",
+        "peekOfCode": "def run():\n  with connection.cursor() as cursor:\n    # টেবিলের সব ইনডেক্স লিস্ট\n    cursor.execute(\"PRAGMA index_list('student');\")\n    indexes = cursor.fetchall()\n    print(\"Indexes:\", indexes)\n    # যদি কোনো ইনডেক্সে ডিটেইলস দেখতে চাও\n    for idx in indexes:\n        index_name = idx[1]  # index_list এর 2nd column হলো name\n        cursor.execute(f\"PRAGMA index_info('{index_name}');\")",
+        "detail": "core.scripts.index",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "core.scripts.many",
+        "description": "core.scripts.many",
+        "peekOfCode": "def run():\n  # create staff\n  Rahim = Staff.objects.create(name='Rahim')\n  Karim = Staff.objects.create(name='Karim')\n  Sahim = Staff.objects.create(name='Tahim')\n  res = Restaurant.objects.all()\n  # create many to many ralationship\n  Rahim.restaurant.add(res[3])\n  Rahim.restaurant.add(res[2])\n  Rahim.restaurant.add(res[1])",
+        "detail": "core.scripts.many",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "core.scripts.q_object",
+        "description": "core.scripts.q_object",
+        "peekOfCode": "def run():\n  q= Q(income__gt=120)\n  n= ~Q(restaurant__name__contains='a')\n  obj = Sale.objects.filter(q & n)\n  for x in obj:\n    print(x.restaurant.name , x.income)",
+        "detail": "core.scripts.q_object",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "core.scripts.year",
+        "description": "core.scripts.year",
+        "peekOfCode": "def run():\n  boy = Staff.objects.values('name', 'restaurant__name')\n  for x in boy:\n      print(f\"{x['name']} -- {x['restaurant__name']}\")\n  print('\\n'*3)\n  print(len(connection.queries))",
+        "detail": "core.scripts.year",
+        "documentation": {}
+    },
+    {
+        "label": "CoreConfig",
+        "kind": 6,
+        "importPath": "core.apps",
+        "description": "core.apps",
+        "peekOfCode": "class CoreConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'core'",
+        "detail": "core.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Restaurant",
+        "kind": 6,
+        "importPath": "core.models",
+        "description": "core.models",
+        "peekOfCode": "class Restaurant(models.Model):\n    class TypeChoices(models.TextChoices):\n        INDIAN = 'IN', 'Indian'\n        CHINESE = 'CH', 'Chinese'\n        ITALIAN = 'IT', 'Italian'\n        GREEK = 'GR', 'Greek'\n        MEXICAN = 'MX', 'Mexican'\n        FASTFOOD = 'FF', 'Fast Food'\n        OTHER = 'OT', 'Other'\n    name = models.CharField(max_length=100, validators=[validate_restaurant_name_begins_with_a])",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Staff",
+        "kind": 6,
+        "importPath": "core.models",
+        "description": "core.models",
+        "peekOfCode": "class Staff(models.Model):\n    name = models.CharField(max_length=40)\n    restaurant = models.ManyToManyField(Restaurant,related_name='stuffs')\nclass Rating(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='ratings')\n    rating = models.PositiveSmallIntegerField(\n        validators=[MinValueValidator(1), MaxValueValidator(5)]\n    )\n    def __str__(self):",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rating",
+        "kind": 6,
+        "importPath": "core.models",
+        "description": "core.models",
+        "peekOfCode": "class Rating(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='ratings')\n    rating = models.PositiveSmallIntegerField(\n        validators=[MinValueValidator(1), MaxValueValidator(5)]\n    )\n    def __str__(self):\n        return f\"Rating: {self.rating}\"\nclass Sale(models.Model):\n    restaurant = models.ForeignKey(",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sale",
+        "kind": 6,
+        "importPath": "core.models",
+        "description": "core.models",
+        "peekOfCode": "class Sale(models.Model):\n    restaurant = models.ForeignKey(\n        Restaurant, on_delete=models.SET_NULL, null=True, related_name='sales')\n    income = models.DecimalField(max_digits=8, decimal_places=2)\n    datetime = models.DateTimeField()\nfrom django.db.models.functions import Lower  \nfrom django.db.models import F\nclass Student(models.Model):\n    name = models.CharField(max_length=59)\n    roll= models.IntegerField( )",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "core.models",
+        "description": "core.models",
+        "peekOfCode": "class Student(models.Model):\n    name = models.CharField(max_length=59)\n    roll= models.IntegerField( )\n    # Meta class use for database justification\n    class Meta:\n        indexes = [\n            models.Index(\n                F('name').desc(),  # name descending\n                F('roll').asc(),   # roll ascending\n                name='name_desc_roll_idx'",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "core.models",
+        "description": "core.models",
+        "peekOfCode": "class Product(models.Model):\n    buy = models.IntegerField()\n    sell= models.IntegerField()",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "validate_restaurant_name_begins_with_a",
+        "kind": 2,
+        "importPath": "core.models",
+        "description": "core.models",
+        "peekOfCode": "def validate_restaurant_name_begins_with_a(value):\n    if not value.startswith('a'):\n        raise ValidationError('Restaurant name must begin with \"a\"')\nclass Restaurant(models.Model):\n    class TypeChoices(models.TextChoices):\n        INDIAN = 'IN', 'Indian'\n        CHINESE = 'CH', 'Chinese'\n        ITALIAN = 'IT', 'Italian'\n        GREEK = 'GR', 'Greek'\n        MEXICAN = 'MX', 'Mexican'",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "core.urls",
+        "description": "core.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.restaurant_view, name='restuarant'),  # ✅ corre\n]",
+        "detail": "core.urls",
+        "documentation": {}
+    },
+    {
+        "label": "restaurant_view",
+        "kind": 2,
+        "importPath": "core.views",
+        "description": "core.views",
+        "peekOfCode": "def restaurant_view(request):\n    return HttpResponse(\"<h4>This is apple how are you</h4>\")",
+        "detail": "core.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "orm.asgi",
+        "description": "orm.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "orm.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-msf+xfr4hdjw!h#idatxl_-a6=&8nd-quhbla%(9%+n5j3zbdu'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['127.0.0.1', 'localhost']\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-msf+xfr4hdjw!h#idatxl_-a6=&8nd-quhbla%(9%+n5j3zbdu'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['127.0.0.1', 'localhost']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['127.0.0.1', 'localhost']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['127.0.0.1', 'localhost']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n     'django_extensions',",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n     'django_extensions',\n     \"debug_toolbar\",\n    'core',",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n     \"debug_toolbar.middleware.DebugToolbarMiddleware\",\n]",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "ROOT_URLCONF = 'orm.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR/'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR/'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'orm.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nINTERNAL_IPS = [",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nINTERNAL_IPS = [\n    # ...",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nINTERNAL_IPS = [\n    # ...\n    \"127.0.0.1\",",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nINTERNAL_IPS = [\n    # ...\n    \"127.0.0.1\",\n    # ...\n]",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nINTERNAL_IPS = [\n    # ...\n    \"127.0.0.1\",\n    # ...\n]",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INTERNAL_IPS",
+        "kind": 5,
+        "importPath": "orm.settings",
+        "description": "orm.settings",
+        "peekOfCode": "INTERNAL_IPS = [\n    # ...\n    \"127.0.0.1\",\n    # ...\n]",
+        "detail": "orm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "orm.urls",
+        "description": "orm.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',include('core.urls'))\n]\n# Include Debug Toolbar URLs only in DEBUG mode\nif settings.DEBUG:\n    import debug_toolbar\n    urlpatterns += [\n        path('__debug__/', include(debug_toolbar.urls)),\n    ]",
+        "detail": "orm.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "orm.wsgi",
+        "description": "orm.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "orm.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'orm.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
