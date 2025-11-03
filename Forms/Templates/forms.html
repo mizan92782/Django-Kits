@@ -1,0 +1,48 @@
+<!-- templates/student_form.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Form</title>
+</head>
+<body>
+    <h1>Student Form</h1>
+
+    <form method="post">
+        {% csrf_token %}
+        {{ form.non_field_errors }}  <!-- Form-level error -->
+
+        <p>
+            {{ form.name.label_tag }}<br>
+            {{ form.name }}<br>
+            {{ form.name.errors }} <!-- Field-level error -->
+        </p>
+
+        <p>
+            {{ form.email.label_tag }}<br>
+            {{ form.email }}<br>
+            {{ form.email.errors }}
+        </p>
+
+        <p>
+            {{ form.age.label_tag }}<br>
+            {{ form.age }}<br>
+            {{ form.age.errors }}
+            <small>{{ form.age.help_text }}</small>
+        </p>
+
+        <p>
+            {{ form.password.label_tag }}<br>
+            {{ form.password }}<br>
+            {{ form.password.errors }}
+        </p>
+
+        <p>
+            {{ form.confirm_password.label_tag }}<br>
+            {{ form.confirm_password }}<br>
+            {{ form.confirm_password.errors }}
+        </p>
+
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

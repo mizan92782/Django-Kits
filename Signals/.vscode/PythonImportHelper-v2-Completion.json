@@ -1,0 +1,628 @@
+[
+    {
+        "label": "Applicants.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "Applicants.models",
+        "description": "Applicants.models",
+        "detail": "Applicants.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "phonenumber_field.modelfields",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "phonenumber_field.modelfields",
+        "description": "phonenumber_field.modelfields",
+        "detail": "phonenumber_field.modelfields",
+        "documentation": {}
+    },
+    {
+        "label": "PhoneNumberField",
+        "importPath": "phonenumber_field.modelfields",
+        "description": "phonenumber_field.modelfields",
+        "isExtraImport": true,
+        "detail": "phonenumber_field.modelfields",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionsMixin",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Applicants",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "Applicants",
+        "description": "Applicants",
+        "detail": "Applicants",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "HttpRequest",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Applicants.migrations.0001_initial",
+        "description": "Applicants.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "Applicants.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Applicants.migrations.0002_remove_applicant_user_applicant_email_and_more",
+        "description": "Applicants.migrations.0002_remove_applicant_user_applicant_email_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Applicants', '0001_initial'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='applicant',\n            name='user',\n        ),\n        migrations.AddField(",
+        "detail": "Applicants.migrations.0002_remove_applicant_user_applicant_email_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "ApplicantAdmin",
+        "kind": 6,
+        "importPath": "Applicants.admin",
+        "description": "Applicants.admin",
+        "peekOfCode": "class ApplicantAdmin(admin.ModelAdmin):\n    list_display = [\n        field.name for field in Applicant._meta.get_fields()\n        if field.concrete and not (field.many_to_many or field.one_to_many)\n    ]\nadmin.site.register(Applicant, ApplicantAdmin)\nclass UserAdmin(admin.ModelAdmin):\n    list_display = [\n        field.name for field in User._meta.get_fields()\n        if field.concrete and not (field.many_to_many or field.one_to_many)",
+        "detail": "Applicants.admin",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "kind": 6,
+        "importPath": "Applicants.admin",
+        "description": "Applicants.admin",
+        "peekOfCode": "class UserAdmin(admin.ModelAdmin):\n    list_display = [\n        field.name for field in User._meta.get_fields()\n        if field.concrete and not (field.many_to_many or field.one_to_many)\n    ]\nadmin.site.register(User, UserAdmin)",
+        "detail": "Applicants.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ApplicantsConfig",
+        "kind": 6,
+        "importPath": "Applicants.apps",
+        "description": "Applicants.apps",
+        "peekOfCode": "class ApplicantsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'Applicants'\n    def ready(self):\n            import Applicants.signals  # <--- এখানে import",
+        "detail": "Applicants.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ApplicantForm",
+        "kind": 6,
+        "importPath": "Applicants.forms",
+        "description": "Applicants.forms",
+        "peekOfCode": "class ApplicantForm(forms.ModelForm):\n    class Meta:\n        model = Applicant\n        # model এর কোন fields show করতে চাও, সেটা এখানে\n        fields = ['first_name', 'last_name','email','number' ,'age', 'bio', 'position', 'cv']\n        # Optional: field এর labels customize করা\n        labels = {\n            'first_name': 'First Name',\n            'last_name': 'Last Name',\n            'age': 'Age',",
+        "detail": "Applicants.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserManager",
+        "kind": 6,
+        "importPath": "Applicants.models",
+        "description": "Applicants.models",
+        "peekOfCode": "class UserManager(BaseUserManager):\n    def create_user(self, email, number, password=None, **extra_fields):\n        user = User.objects.filter(email=email).first()\n        if user :\n            return  user\n        if not email:\n            raise ValueError(\"Email cannot be empty\")\n        if not number:\n            raise ValueError(\"Number cannot be empty\")\n        email = self.normalize_email(email)",
+        "detail": "Applicants.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "Applicants.models",
+        "description": "Applicants.models",
+        "peekOfCode": "class User(AbstractBaseUser, PermissionsMixin):\n    email = models.EmailField(unique=True)\n    number = PhoneNumberField(unique=True)\n    is_active = models.BooleanField(default=True)\n    is_staff = models.BooleanField(default=False)\n    objects = UserManager()\n    USERNAME_FIELD = \"email\"\n    REQUIRED_FIELDS = [\"number\"]\n    def __str__(self):\n        return self.email",
+        "detail": "Applicants.models",
+        "documentation": {}
+    },
+    {
+        "label": "Applicant",
+        "kind": 6,
+        "importPath": "Applicants.models",
+        "description": "Applicants.models",
+        "peekOfCode": "class Applicant(models.Model):\n    class Position(models.TextChoices):\n        JSWE = 'junior_SWE', \"Junior SWE\"\n        SSWE = 'senior_SWE', \"Senior SWE\"\n        ISWE = 'intern_SWE', \"Intern SWE\"\n    email = models.EmailField(unique=True)\n    number = PhoneNumberField(unique=True)\n    first_name = models.CharField(max_length=20)\n    last_name = models.CharField(max_length=20)\n    age = models.PositiveSmallIntegerField()",
+        "detail": "Applicants.models",
+        "documentation": {}
+    },
+    {
+        "label": "cv_path",
+        "kind": 2,
+        "importPath": "Applicants.models",
+        "description": "Applicants.models",
+        "peekOfCode": "def cv_path(instance,filename):\n  return f'cv/{instance.first_name}_{instance.last_name}_{filename}'\nclass UserManager(BaseUserManager):\n    def create_user(self, email, number, password=None, **extra_fields):\n        user = User.objects.filter(email=email).first()\n        if user :\n            return  user\n        if not email:\n            raise ValueError(\"Email cannot be empty\")\n        if not number:",
+        "detail": "Applicants.models",
+        "documentation": {}
+    },
+    {
+        "label": "create_user_for_application",
+        "kind": 2,
+        "importPath": "Applicants.signals",
+        "description": "Applicants.signals",
+        "peekOfCode": "def create_user_for_application(sender,instance,created, **kwargs):\n  if created:\n    # signal: create user\n    user= User.objects.create_user(\n      email= instance.email,\n      number= instance.number\n    )\n    #signal: send main\n    send_mail(\n            subject=\"Welcome to Our Platform\",",
+        "detail": "Applicants.signals",
+        "documentation": {}
+    },
+    {
+        "label": "apply_page",
+        "kind": 2,
+        "importPath": "Applicants.views",
+        "description": "Applicants.views",
+        "peekOfCode": "def apply_page(request):\n    if request.method == \"POST\":\n        form = ApplicantForm(request.POST, request.FILES)\n        if form.is_valid():\n            applicant = form.save(commit=False)\n            applicant.save()\n            return HttpResponse(\"User created successfully\") \n        else:\n            # এখানে form.errors দেখানো হচ্ছে\n            errors = form.errors.as_json()  # JSON format",
+        "detail": "Applicants.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Signals.asgi",
+        "description": "Signals.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Signals.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-&bv=axzv*lktpq+^k7yh&1r4l10^ro-!&u_jcg7c03r760nl3f'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-&bv=axzv*lktpq+^k7yh&1r4l10^ro-!&u_jcg7c03r760nl3f'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'Applicants'",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'Applicants'\n]\nMIDDLEWARE = [",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'Signals.urls'",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "ROOT_URLCONF = 'Signals.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR,'Templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR,'Templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n                'django.contrib.messages.context_processors.messages',",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'Signals.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'Applicants.User'",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'Applicants.User'\nMEDIA_ROOT= BASE_DIR/'Media'",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'Applicants.User'\nMEDIA_ROOT= BASE_DIR/'Media'\nMEDIA_URL= '/media/'",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'Applicants.User'\nMEDIA_ROOT= BASE_DIR/'Media'\nMEDIA_URL= '/media/'\nPHONENUMBER_DEFAULT_REGION = \"BD\"\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'Applicants.User'\nMEDIA_ROOT= BASE_DIR/'Media'\nMEDIA_URL= '/media/'\nPHONENUMBER_DEFAULT_REGION = \"BD\"\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'Applicants.User'\nMEDIA_ROOT= BASE_DIR/'Media'\nMEDIA_URL= '/media/'\nPHONENUMBER_DEFAULT_REGION = \"BD\"\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "PHONENUMBER_DEFAULT_REGION",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "PHONENUMBER_DEFAULT_REGION = \"BD\"\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "Signals.settings",
+        "description": "Signals.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'",
+        "detail": "Signals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Signals.urls",
+        "description": "Signals.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('applicants/', include('Applicants.urls')),\n]",
+        "detail": "Signals.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Signals.wsgi",
+        "description": "Signals.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Signals.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Signals.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

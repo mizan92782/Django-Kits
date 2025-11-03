@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student List</title>
+    <style>
+        body { font-family: sans-serif; margin: 40px; }
+        .pagination a {
+            margin: 0 5px;
+            text-decoration: none;
+            color: blue;
+        }
+        .pagination span.current {
+            font-weight: bold;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h2>Student List</h2>
+
+    <ul>
+        {% for student in page_obj %}
+            <li>{{ student.roll }} - {{ student.name }}</li>
+        {% endfor %}
+    </ul>
+
+
+
+    
+    <div class="pagination">
+        {% if page_obj.has_previous %}
+            <a href="?page={{ page_obj.previous_page_number }}">Previous</a>
+        {% endif %}
+
+        {% for num in page_obj.paginator.page_range %}
+            {% if page_obj.number == num %}
+                <span class="current">{{ num }}</span>
+            {% else %}
+                <a href="?page={{ num }}">{{ num }}</a>
+            {% endif %}
+        {% endfor %}
+
+        {% if page_obj.has_next %}
+            <a href="?page={{ page_obj.next_page_number }}">Next</a>
+        {% endif %}
+    </div>
+</body>
+</html>

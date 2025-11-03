@@ -73,6 +73,38 @@
         "documentation": {}
     },
     {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "models",
         "importPath": "django.db",
         "description": "django.db",
@@ -86,6 +118,87 @@
         "description": "django.apps",
         "isExtraImport": true,
         "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Permission",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Permission",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Permission",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
         "documentation": {}
     },
     {
@@ -105,11 +218,11 @@
         "documentation": {}
     },
     {
-        "label": "Permission",
-        "importPath": "django.contrib.auth.models",
-        "description": "django.contrib.auth.models",
+        "label": "ContentType",
+        "importPath": "django.contrib.contenttypes.models",
+        "description": "django.contrib.contenttypes.models",
         "isExtraImport": true,
-        "detail": "django.contrib.auth.models",
+        "detail": "django.contrib.contenttypes.models",
         "documentation": {}
     },
     {
@@ -118,6 +231,30 @@
         "description": "django.contrib.contenttypes.models",
         "isExtraImport": true,
         "detail": "django.contrib.contenttypes.models",
+        "documentation": {}
+    },
+    {
+        "label": "ContentType",
+        "importPath": "django.contrib.contenttypes.models",
+        "description": "django.contrib.contenttypes.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.contenttypes.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "Permission.models",
+        "description": "Permission.models",
+        "isExtraImport": true,
+        "detail": "Permission.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "Permission.models",
+        "description": "Permission.models",
+        "isExtraImport": true,
+        "detail": "Permission.models",
         "documentation": {}
     },
     {
@@ -327,6 +464,42 @@
         "documentation": {}
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Permission.migrations.0002_alter_student_options",
+        "description": "Permission.migrations.0002_alter_student_options",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Permission', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='student',\n            options={'default_permissions': ('add', 'change')},\n        ),\n    ]",
+        "detail": "Permission.migrations.0002_alter_student_options",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Permission.migrations.0003_alter_student_options",
+        "description": "Permission.migrations.0003_alter_student_options",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Permission', '0002_alter_student_options'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='student',\n            options={'permissions': [('can_view_list', 'Can publish posts'), ('can_search_list', 'Can view post statistics')]},\n        ),\n    ]",
+        "detail": "Permission.migrations.0003_alter_student_options",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Permission.migrations.0004_alter_student_options",
+        "description": "Permission.migrations.0004_alter_student_options",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Permission', '0003_alter_student_options'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='student',\n            options={'permissions': [('filter_student', 'Can view student'), ('search_student', 'Can search student')]},\n        ),\n    ]",
+        "detail": "Permission.migrations.0004_alter_student_options",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Permission.migrations.0005_alter_student_options",
+        "description": "Permission.migrations.0005_alter_student_options",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Permission', '0004_alter_student_options'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='student',\n            options={'permissions': [('filter_student', 'Can filter student'), ('search_student', 'Can search student')]},\n        ),\n    ]",
+        "detail": "Permission.migrations.0005_alter_student_options",
+        "documentation": {}
+    },
+    {
         "label": "PermissionConfig",
         "kind": 6,
         "importPath": "Permission.apps",
@@ -340,8 +513,26 @@
         "kind": 6,
         "importPath": "Permission.models",
         "description": "Permission.models",
-        "peekOfCode": "class Student(models.Model):\n    name = models.CharField(max_length=100)\n    roll = models.IntegerField(unique=True)\n    email = models.EmailField(unique=True)\n    department = models.CharField(max_length=50)\n    def __str__(self):\n        return f\"{self.name} ({self.roll})\"",
+        "peekOfCode": "class Student(models.Model):\n    name = models.CharField(max_length=100)\n    roll = models.IntegerField(unique=True)\n    email = models.EmailField(unique=True)\n    department = models.CharField(max_length=50)\n    class Meta:\n       permissions = [\n            (\"filter_student\", \"Can filter student\"),\n            (\"search_student\", \"Can search student\"),\n        ]",
         "detail": "Permission.models",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "scripts.catch_permission",
+        "description": "scripts.catch_permission",
+        "peekOfCode": "def run():\n  content_type = ContentType.objects.get(app_label='Permission',model='student')\n  # catch any Permission\n  per= Permission.objects.get(codename='add_student',content_type=content_type)\n  print(\"catched permission : \" ,per.codename)\n  ''' now we can add this permissin in agoup \n  and add use in that group,so then people oly can crate student'''",
+        "detail": "scripts.catch_permission",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "scripts.create_group",
+        "description": "scripts.create_group",
+        "peekOfCode": "def run():\n  #! create group\n  Register,_ = Group.objects.get_or_create(name=\"Register\")\n  Teacher,_ = Group.objects.get_or_create(name=\"Teacher\")\n  # ! now we will give this  get permissions\n  # get content\n  content_type = ContentType.objects.get(app_label='Permission', model='student')\n  add_per = Permission.objects.get(codename='add_student', content_type=content_type)\n  filter_per = Permission.objects.get(codename='filter_student', content_type=content_type)\n  change_per = Permission.objects.get(codename='change_student', content_type=content_type)",
+        "detail": "scripts.create_group",
         "documentation": {}
     },
     {
@@ -351,6 +542,24 @@
         "description": "scripts.sdp",
         "peekOfCode": "def run():\n  content_type = ContentType.objects.get_for_model(Student)\n  permissions = Permission.objects.filter(content_type=content_type)\n  for p in permissions:\n      print(p.codename, \"-\", p.name)",
         "detail": "scripts.sdp",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "scripts.show_user",
+        "description": "scripts.show_user",
+        "peekOfCode": "def run():\n  name= ['mizan','sizan','arif','karim']\n  password=\"abc\"\n  users = User.objects.all()\n  for x in users:\n    print (x.username)",
+        "detail": "scripts.show_user",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "scripts.useraddgroup",
+        "description": "scripts.useraddgroup",
+        "peekOfCode": "def run():\n  mizan = User.objects.filter(username='mizan')\n  sizan = User.objects.filter(username='sizan')\n  arif = User.objects.filter(username='arif')\n  # arif is register\n  Register = Group.objects.get(name='Register')\n  #sizan is teacher\n  Teacher = Group.objects.get(name='Teacher')\n  # now add in Group\n  arif.groups.add(Register)",
+        "detail": "scripts.useraddgroup",
         "documentation": {}
     },
     {
