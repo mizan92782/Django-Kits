@@ -46,10 +46,31 @@ class Customer(models.Model):
     def __str__(self):
         return self.name
 
+
+
+class Post(models.Model):
+    title = models.CharField(max_length=200)
+    content = models.TextField()
+    
+    user = models.ForeignKey(
+        User,
+        on_delete=models.CASCADE,
+        related_name="posts"
+    )
+
+    created_at = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return self.title
         
         
-        
-        
-        
-        
-        
+class Book(models.Model):
+    title = models.CharField(max_length=200)
+    author = models.CharField(max_length=100)
+    published_date = models.DateField()
+    isbn = models.CharField(max_length=13, unique=True)
+    user = models.ForeignKey(User, on_delete=models.CASCADE, related_name="books", null=True)
+
+
+    def __str__(self):
+        return self.title

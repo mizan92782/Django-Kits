@@ -1,8 +1,8 @@
-        
+
 from rest_framework import serializers
 from django.db import transaction
 
-from myapp.models import Address, Customer, User
+from myapp.models import Address, Customer, Post, User, Book
 
 
 class AddressSerializer(serializers.Serializer):
@@ -51,6 +51,15 @@ class UserRegisterSerializer(serializers.Serializer):
         return data
 
     # ---------- create ----------
+    '''POST request
+       → View (CreateAPIView)
+       → serializer.is_valid()
+       → serializer.save()
+       → serializer.create()
+       
+       
+       if no need customize then not need to user create: alos we can send custome respose using serializer'''
+       
     def create(self, validated_data):
         if User.objects.filter(email=validated_data["email"]).exists():
             raise serializers.ValidationError("Email already exists")
@@ -119,5 +128,32 @@ class UserRegisterSerializer(serializers.Serializer):
             "message": "User registration successful",
             "full_info": self.get_full_info(instance),
         }
+
         
         
+class PostCreateSerializer(serializers.Serializer):
+    title = serializers.CharField(max_length=200)
+    content = serializers.CharField()
+
+    def create(self, validated_data):
+        return Post.objects.create(**validated_data)
+
+
+class BookSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Book
+        fields = '__all__'
+    #!================================================================================ best way to represet the data in responser
+    def to_representation(self, instance):
+        representation = super().to_representation(instance)
+        representation['user'] = {
+            'id': instance.user.id,
+            'email': instance.user.email
+        }
+        
+        representation['customer'] = {
+            'id': instance.user.customer.id,
+            'name': instance.user.customer.name,
+            'phone': instance.user.customer.phone
+        }
+        return representation
