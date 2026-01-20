@@ -1,0 +1,63 @@
+
+
+services:
+  # -----------------------
+  # Django Backend
+  # -----------------------
+  backend:
+    build: .
+    container_name: compose_app
+    command: gunicorn project_name.wsgi:application --bind 0.0.0.0:8000
+    volumes:
+      - .:/app
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    restart: unless-stopped
+
+  # -----------------------
+  # PostgreSQL Database
+  # -----------------------
+  db:
+    image: postgres:15
+    container_name: postgres_db
+    environment:
+      POSTGRES_DB: mydb
+      POSTGRES_USER: myuser
+      POSTGRES_PASSWORD: mypassword
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U myuser -d mydb"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  # -----------------------
+  # Redis Cache
+  # -----------------------
+  redis:
+    image: redis:7
+    container_name: redis_db
+    restart: unless-stopped
+
+  # -----------------------
+  # Nginx Reverse Proxy
+  # -----------------------
+  nginx:
+    image: nginx:alpine
+    container_name: nginx_web
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx/conf.d:/etc/nginx/conf.d:ro
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+      

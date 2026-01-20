@@ -86,7 +86,7 @@ class FahterView(ModelViewSet):
         return Response({
             "message": "A new Father instance created",
             "father_id": instance.id,
-            "data": serialize.data
+            "data": serializer.data
         }, status=status.HTTP_201_CREATED)
     
     
