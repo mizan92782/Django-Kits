@@ -1,4 +1,4 @@
-
+version: "3.9"
 
 services:
   # -----------------------
@@ -7,9 +7,14 @@ services:
   backend:
     build: .
     container_name: compose_app
-    command: gunicorn project_name.wsgi:application --bind 0.0.0.0:8000
+    command: gunicorn modelLogDoc.wsgi:application --bind 0.0.0.0:8000 --workers 3
     volumes:
       - .:/app
+      - static_volume:/app/staticfiles       # persist static files
+      - media_volume:/app/mediafiles         # persist media files
+    environment:
+      - DEBUG=0
+      - DJANGO_SETTINGS_MODULE=modelLogDoc.settings
     depends_on:
       db:
         condition: service_healthy
@@ -51,13 +56,19 @@ services:
     image: nginx:alpine
     container_name: nginx_web
     ports:
-      - "80:80"
+      - "8000:80"
     volumes:
+      - static_volume:/app/staticfiles
+      - media_volume:/app/mediafiles
       - ./nginx/conf.d:/etc/nginx/conf.d:ro
     depends_on:
       - backend
     restart: unless-stopped
 
+# ==============================
+# Volumes
+# ==============================
 volumes:
   postgres_data:
-      
+  static_volume:
+  media_volume:

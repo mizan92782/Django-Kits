@@ -1,0 +1,785 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "get_schema_view",
+        "importPath": "drf_yasg.views",
+        "description": "drf_yasg.views",
+        "isExtraImport": true,
+        "detail": "drf_yasg.views",
+        "documentation": {}
+    },
+    {
+        "label": "openapi",
+        "importPath": "drf_yasg",
+        "description": "drf_yasg",
+        "isExtraImport": true,
+        "detail": "drf_yasg",
+        "documentation": {}
+    },
+    {
+        "label": "openapi",
+        "importPath": "drf_yasg",
+        "description": "drf_yasg",
+        "isExtraImport": true,
+        "detail": "drf_yasg",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "Father",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mother",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Parents",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Father",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mother",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Father",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mother",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "default",
+        "importPath": "email.policy",
+        "description": "email.policy",
+        "isExtraImport": true,
+        "detail": "email.policy",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationErr",
+        "importPath": "xml.dom",
+        "description": "xml.dom",
+        "isExtraImport": true,
+        "detail": "xml.dom",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "attr",
+        "description": "attr",
+        "isExtraImport": true,
+        "detail": "attr",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "jsonschema",
+        "description": "jsonschema",
+        "isExtraImport": true,
+        "detail": "jsonschema",
+        "documentation": {}
+    },
+    {
+        "label": "father_status",
+        "importPath": "students.services",
+        "description": "students.services",
+        "isExtraImport": true,
+        "detail": "students.services",
+        "documentation": {}
+    },
+    {
+        "label": "mother_status",
+        "importPath": "students.services",
+        "description": "students.services",
+        "isExtraImport": true,
+        "detail": "students.services",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "FahterView",
+        "importPath": "students.views",
+        "description": "students.views",
+        "isExtraImport": true,
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "MotherView",
+        "importPath": "students.views",
+        "description": "students.views",
+        "isExtraImport": true,
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "action",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "serialize",
+        "importPath": "yaml",
+        "description": "yaml",
+        "isExtraImport": true,
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "FatherSerializer",
+        "importPath": "students.serializer",
+        "description": "students.serializer",
+        "isExtraImport": true,
+        "detail": "students.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "MotherSerializer",
+        "importPath": "students.serializer",
+        "description": "students.serializer",
+        "isExtraImport": true,
+        "detail": "students.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "swagger_auto_schema",
+        "importPath": "drf_yasg.utils",
+        "description": "drf_yasg.utils",
+        "isExtraImport": true,
+        "detail": "drf_yasg.utils",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "modelLogDoc.asgi",
+        "description": "modelLogDoc.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "modelLogDoc.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure--wo#=-a6h29o#jq142xp14(^o!)aj9=ys8m_*^f$k6k-pg39)6'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure--wo#=-a6h29o#jq142xp14(^o!)aj9=ys8m_*^f$k6k-pg39)6'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'students',",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'students',\n    'rest_framework', \n    'drf_yasg', ",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'whitenoise.middleware.WhiteNoiseMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "ROOT_URLCONF = 'modelLogDoc.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n                'django.contrib.messages.context_processors.messages',",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'modelLogDoc.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'mydb',\n        'USER': 'myuser',\n        'PASSWORD': 'mypassword',\n        'HOST': 'db',       # <-- IMPORTANT (service name)",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'mydb',\n        'USER': 'myuser',\n        'PASSWORD': 'mypassword',\n        'HOST': 'db',       # <-- IMPORTANT (service name)\n        'PORT': '5432',\n    }\n}",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nSWAGGER_SETTINGS = {",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nSWAGGER_SETTINGS = {\n    \"SECURITY_DEFINITIONS\": {",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nSWAGGER_SETTINGS = {\n    \"SECURITY_DEFINITIONS\": {\n        \"Bearer\": {",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nSWAGGER_SETTINGS = {\n    \"SECURITY_DEFINITIONS\": {\n        \"Bearer\": {\n            \"type\": \"apiKey\",\n            \"name\": \"Authorization\",\n            \"in\": \"header\",",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nSWAGGER_SETTINGS = {\n    \"SECURITY_DEFINITIONS\": {\n        \"Bearer\": {\n            \"type\": \"apiKey\",\n            \"name\": \"Authorization\",\n            \"in\": \"header\",\n            \"description\": \"JWT Authorization header using the Bearer scheme. Example: 'Bearer <token>'\",\n        }\n    },",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SWAGGER_SETTINGS",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "SWAGGER_SETTINGS = {\n    \"SECURITY_DEFINITIONS\": {\n        \"Bearer\": {\n            \"type\": \"apiKey\",\n            \"name\": \"Authorization\",\n            \"in\": \"header\",\n            \"description\": \"JWT Authorization header using the Bearer scheme. Example: 'Bearer <token>'\",\n        }\n    },\n    \"USE_SESSION_AUTH\": False,   ",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CACHES",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "CACHES = {\n    \"default\": {\n        \"BACKEND\": \"django_redis.cache.RedisCache\",\n        \"LOCATION\": \"redis://redis:6379/0\",\n        \"OPTIONS\": {\n            \"CLIENT_CLASS\": \"django_redis.client.DefaultClient\",\n        }\n    }\n}\nSTATIC_URL = '/static/'",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR / 'staticfiles'  # folder inside container\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'mediafiles'    # folder inside container",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / 'staticfiles'  # folder inside container\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'mediafiles'    # folder inside container",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'mediafiles'    # folder inside container",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "modelLogDoc.settings",
+        "description": "modelLogDoc.settings",
+        "peekOfCode": "MEDIA_ROOT = BASE_DIR / 'mediafiles'    # folder inside container",
+        "detail": "modelLogDoc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "swagger_schema_view",
+        "kind": 5,
+        "importPath": "modelLogDoc.urls",
+        "description": "modelLogDoc.urls",
+        "peekOfCode": "swagger_schema_view = get_schema_view(\n    openapi.Info(\n        title=\"Custom User API\",\n        default_version=\"v1\",\n        description=\"API documentation for CustomUser model\",\n        terms_of_service=\"https://www.example.com/terms/\",\n        contact=openapi.Contact(email=\"contact@example.com\"),\n        license=openapi.License(name=\"BSD License\"),\n    ),\n    public=True,",
+        "detail": "modelLogDoc.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "modelLogDoc.urls",
+        "description": "modelLogDoc.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('student/',include('students.urls')),\n    path(r'swagger(<format>\\.json|\\.yaml)', swagger_schema_view.without_ui(cache_timeout=0), name='schema-json'),\n    path('swagger/', swagger_schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),\n]",
+        "detail": "modelLogDoc.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "modelLogDoc.wsgi",
+        "description": "modelLogDoc.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "modelLogDoc.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "students.migrations.0001_initial",
+        "description": "students.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Father',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=20)),",
+        "detail": "students.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "FatherAdmin",
+        "kind": 6,
+        "importPath": "students.admin",
+        "description": "students.admin",
+        "peekOfCode": "class FatherAdmin(admin.ModelAdmin):\n    list_display = (\"name\",'age','salary')\n@admin.register(Mother)\nclass MotherAdmin(admin.ModelAdmin):\n    list_display = (\"name\",'age')\n@admin.register(Parents)\nclass SpousAdmin(admin.ModelAdmin):\n    list_display = (\"father\",'mother')",
+        "detail": "students.admin",
+        "documentation": {}
+    },
+    {
+        "label": "MotherAdmin",
+        "kind": 6,
+        "importPath": "students.admin",
+        "description": "students.admin",
+        "peekOfCode": "class MotherAdmin(admin.ModelAdmin):\n    list_display = (\"name\",'age')\n@admin.register(Parents)\nclass SpousAdmin(admin.ModelAdmin):\n    list_display = (\"father\",'mother')",
+        "detail": "students.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SpousAdmin",
+        "kind": 6,
+        "importPath": "students.admin",
+        "description": "students.admin",
+        "peekOfCode": "class SpousAdmin(admin.ModelAdmin):\n    list_display = (\"father\",'mother')",
+        "detail": "students.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SudentsConfig",
+        "kind": 6,
+        "importPath": "students.apps",
+        "description": "students.apps",
+        "peekOfCode": "class SudentsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'students'",
+        "detail": "students.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Father",
+        "kind": 6,
+        "importPath": "students.models",
+        "description": "students.models",
+        "peekOfCode": "class Father(models.Model):\n    name = models.CharField(max_length=20)\n    age = models.PositiveSmallIntegerField(default=0)\n    salary = models.IntegerField(default=0) \n    def clean(self):\n        if self.age < 30:\n            raise ValidationError({'age': \"Father age cannot be less than 30\"})\n    def save(self, *args, **kwargs):\n        #its professinal to check model level validation every update or save\n        self.full_clean() ",
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mother",
+        "kind": 6,
+        "importPath": "students.models",
+        "description": "students.models",
+        "peekOfCode": "class Mother(models.Model):\n    name = models.CharField(max_length=20)\n    age  = models.PositiveIntegerField(default=0)\n    cash = models.IntegerField(default=10)\n    def clean(self):\n        if self.age < 25:\n            raise ValidationError({'age': \"Mother age cannot be less than 30\"})\n    def save(self, *args, **kwargs):\n        self.name = self.name.title()\n        super().save(*args, **kwargs) ",
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Parents",
+        "kind": 6,
+        "importPath": "students.models",
+        "description": "students.models",
+        "peekOfCode": "class Parents(models.Model):\n    father = models.ForeignKey(Father,on_delete=models.CASCADE)\n    mother = models.ForeignKey(Mother,on_delete=models.CASCADE)\nclass Student(models.Model):\n    name = models.CharField(max_length=30,default=\"student_name\")\n    department = models.CharField(max_length=20)\n    age = models.IntegerField(default=0)\n    salary =  models.PositiveBigIntegerField(default=0)\n    parent = models.ForeignKey(Parents,on_delete=models.CASCADE)\n    def save(self,*args, **kwargs):",
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "students.models",
+        "description": "students.models",
+        "peekOfCode": "class Student(models.Model):\n    name = models.CharField(max_length=30,default=\"student_name\")\n    department = models.CharField(max_length=20)\n    age = models.IntegerField(default=0)\n    salary =  models.PositiveBigIntegerField(default=0)\n    parent = models.ForeignKey(Parents,on_delete=models.CASCADE)\n    def save(self,*args, **kwargs):\n        self.name = self.name.title()\n        return super().save(kwargs)",
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "FatherSerializer",
+        "kind": 6,
+        "importPath": "students.serializer",
+        "description": "students.serializer",
+        "peekOfCode": "class FatherSerializer(serializers.ModelSerializer):\n    status = serializers.SerializerMethodField(read_only=True)\n    # to give defaultg value in serializer,re write the fields\n    age = serializers.IntegerField(default=0,required=False)\n    salary = serializers.IntegerField(default=0,required=False)\n    class Meta:\n        model = Father\n        fields = ['id', 'name', 'age', 'salary', 'status']\n    def validate_age(self,value):\n        if value < 30 :",
+        "detail": "students.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "MotherSerializer",
+        "kind": 6,
+        "importPath": "students.serializer",
+        "description": "students.serializer",
+        "peekOfCode": "class MotherSerializer(serializers.ModelSerializer):\n    age = serializers.IntegerField(default=0,required = False)\n    cash  = serializers.IntegerField(default=0,required = False)\n    status= serializers.SerializerMethodField(read_only=True)\n    class Meta:\n        model= Mother\n        fields=['id','name','age','cash','status']\n    def validate(self, attrs):\n        attr =super().validate(attrs)\n        if attr.get(\"age\")<25:",
+        "detail": "students.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "father_status",
+        "kind": 2,
+        "importPath": "students.services",
+        "description": "students.services",
+        "peekOfCode": "def father_status(obj):\n    if obj.salary<5000:\n            return \"Poor\"\n    if obj.salary <20000:\n            return \"Middle class\"\n    return \"rich\"\ndef mother_status(obj):\n    if obj.cash<500:\n            return \"Poor\"\n    if obj.cash <2000:",
+        "detail": "students.services",
+        "documentation": {}
+    },
+    {
+        "label": "mother_status",
+        "kind": 2,
+        "importPath": "students.services",
+        "description": "students.services",
+        "peekOfCode": "def mother_status(obj):\n    if obj.cash<500:\n            return \"Poor\"\n    if obj.cash <2000:\n            return \"Middle class\"\n    return \"rich\"",
+        "detail": "students.services",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "students.urls",
+        "description": "students.urls",
+        "peekOfCode": "urlpatterns = router.urls",
+        "detail": "students.urls",
+        "documentation": {}
+    },
+    {
+        "label": "FahterView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class FahterView(ModelViewSet):\n    #!get serialiser class\n    def get_serializer_class(self):\n        return FatherSerializer\n    #! get initial queryset    \n    def get_queryset(self):\n        if self.action=='richfather':\n            return Father.objects.filter(salary__gt=20000)\n        return Father.objects.all()",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "MotherView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class MotherView(ModelViewSet):\n    def get_serializer_class(self):\n        return FatherSerializer\n    def get_queryset(self):\n        return Mother.objects.all()\n    # List all Fathers\n    def list(self, request):\n        queryset = self.get_queryset()\n        serializer = self.get_serializer(queryset, many=True)\n        return Response(serializer.data)",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'modelLogDoc.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
